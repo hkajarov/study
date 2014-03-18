@@ -8,6 +8,6 @@ int main()
     int y;
     x = 10;
     y = 20;
-    printf("sum = %d\n",my_sum(x,y));
+    printf("ssum = %d\n",my_sum(x,y));
     return 0;
 }
